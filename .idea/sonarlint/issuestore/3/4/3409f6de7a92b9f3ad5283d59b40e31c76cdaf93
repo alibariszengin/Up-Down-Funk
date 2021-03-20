@@ -1,0 +1,14 @@
+
+f
+java:S2886-"ISynchronize this method to match the synchronization on "getGirisKuyruk".(ñªò®8Ù¨²Ïå.
+“
+java:S1319-"vThe type of the "girisKuyruk" object should be an interface such as "List" rather than the implementation "ArrayList".(ñªò®8âŠªå.
+
+java:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õÔë³8âŠªå.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÍÓä8íøÛÓä.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ŠÚøîüÿÿÿÿ8àÉ¨Ïä.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(»Ÿî8›’…Ôä.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(˜äş8êğÜĞä.
+d
+java:S2886%"GSynchronize this method to match the synchronization on "getKuyruklar".(½´ô¿8“¤ØÌå.

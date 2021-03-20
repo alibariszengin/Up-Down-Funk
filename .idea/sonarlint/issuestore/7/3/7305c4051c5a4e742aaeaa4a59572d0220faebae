@@ -1,0 +1,19 @@
+
+h
+java:S1192p"FDefine a constant instead of duplicating this literal ",0]\n" 4 times.(ö€ııÿÿÿÿ8’ÖËŠæ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ú¾›8ëõíÿä.
+Q
+java:S3740"/Provide the parametrized type for this generic.(¹ÇíÜùÿÿÿÿ8†ìÛÎå.
+l
+java:S1192V"JDefine a constant instead of duplicating this literal "\t Queue:" 4 times.(°¯Óµùÿÿÿÿ8šÜ–Ïå.
+N
+java:S1874<",Remove this use of "stop"; it is deprecated.(ñ­·÷ùÿÿÿÿ8†ìÛÎå.
+h
+java:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(îºüıÿÿÿÿ8â¯íÿä.
+u	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(ã½ö‹8Â³ß¹å.
+R
+java:S1068
+"0Remove this unused "aktifAsansor" private field.(›İ¯ºşÿÿÿÿ8‚˜àÑå.
+N
+java:S18745",Remove this use of "stop"; it is deprecated.(˜Û¨ÿÿÿÿÿ8†ìÛÎå.

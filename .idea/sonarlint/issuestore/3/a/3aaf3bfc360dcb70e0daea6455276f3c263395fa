@@ -1,0 +1,12 @@
+
+d
+java:S2142¨"FEither re-interrupt this method or rethrow the "InterruptedException".(Üâ§8ÿ¼«Šæ.
+o
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(“–ış8¼ÛĞå.
+
+java:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾ ô·8¼ÛĞå.
+V	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ÁÁÏ¾8ÿ¼«Šæ.
+•
+java:S1319)"yThe type of the "asansordekiler" object should be an interface such as "List" rather than the implementation "ArrayList".(ì¥ÑD8¨ıÚĞå.
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹‘«8šŠÜĞå.

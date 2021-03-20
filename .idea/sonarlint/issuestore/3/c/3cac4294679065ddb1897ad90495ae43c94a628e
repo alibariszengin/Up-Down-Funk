@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»¯ÊËüÿÿÿÿ8Ò´‰Ôä.
+;
+java:S2119"Save and re-use this "Random".(±º˜œ8äõêÏå.
+b
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ÄäŞQ8·ò¹Äå.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‚ãÛÓä.

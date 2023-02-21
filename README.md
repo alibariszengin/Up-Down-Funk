@@ -18,7 +18,7 @@ Developed in 2021.
 
 Let's say there was a shopping mall one day. This mall would admit a random number of people between 0-10 every 500ms.
 
-These people he bought would stand in line to go from the ground floor to the floor he wanted. At this point, there were 4 noble elevators in the shopping mall trying to fulfill their duties with great dignity. 
+These people elevator bought would stand in line to go from the ground floor to the floor person wanted. At this point, there were 4 noble elevators in the shopping mall trying to fulfill their duties with great dignity. 
 
 These 4 elevators have a quota of 10 people and pass between each floor in 200ms, distribute the people in the queue to the floors who want to go up to the floors, and on the way back, they pick up and drop people from the floors where 0-5 random people queue to exit every 1000ms.
 
